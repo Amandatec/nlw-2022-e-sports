@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week(NLW) da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://amandatec.github.io/nlw_2022_/)
+[🔗 Clique aqui para acessar](https://amandatec.github.io/nlw_eSports_2022/)
 
 
 ## 🛠 Tecnologias
